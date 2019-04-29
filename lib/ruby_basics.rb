@@ -16,7 +16,7 @@ def argue(hello)
   
 end
 
-def greeting
+def greeting(hello, name)
 
 end
 
