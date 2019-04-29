@@ -6,6 +6,8 @@ end
 
 def assign_variable(value)
   
+  person_name = value
+  
 end
 
 def argue
